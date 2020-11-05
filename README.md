@@ -5,7 +5,7 @@
 1. Build a class with instance methods.
 2. Call instance methods inside of other instance methods.
 3. Use instance methods to track information pertinent to an instance of a class.
-
+  
 ## Description
 
 We're going to create an Object Oriented Cash Register that can:
